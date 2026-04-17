@@ -1,0 +1,762 @@
+[
+  {
+    "word": "actor",
+    "translation": "aktor 🎭",
+    "example": "My favourite actor is in a new film. 🎯"
+  },
+  {
+    "word": "address",
+    "translation": "adres 📍",
+    "example": "What is your home address? 🎯"
+  },
+  {
+    "word": "afternoon",
+    "translation": "popołudnie 🌤️",
+    "example": "I visit my grandmother every afternoon. 🎯"
+  },
+  {
+    "word": "again",
+    "translation": "znowu 🔁",
+    "example": "Can you say that again, please? 🎯"
+  },
+  {
+    "word": "age",
+    "translation": "wiek 🎂",
+    "example": "What is your age? 🎯"
+  },
+  {
+    "word": "all",
+    "translation": "wszyscy, wszystko 🌍",
+    "example": "All my friends live in this city. 🎯"
+  },
+  {
+    "word": "be",
+    "translation": "być 🌟",
+    "example": "I want to be a good teacher. 🎯"
+  },
+  {
+    "word": "big",
+    "translation": "duży 🐘",
+    "example": "They live in a big house. 🎯"
+  },
+  {
+    "word": "birthday",
+    "translation": "urodziny 🎉",
+    "example": "My birthday is in July. 🎯"
+  },
+  {
+    "word": "book",
+    "translation": "książka 📖",
+    "example": "This book is very interesting. 🎯"
+  },
+  {
+    "word": "boy",
+    "translation": "chłopiec 👦",
+    "example": "The boy plays football after school. 🎯"
+  },
+  {
+    "word": "boyfriend",
+    "translation": "chłopak, przyjaciel 💑",
+    "example": "Her boyfriend is very kind. 🎯"
+  },
+  {
+    "word": "brother",
+    "translation": "brat 👨",
+    "example": "My brother lives in Warsaw. 🎯"
+  },
+  {
+    "word": "bye",
+    "translation": "cześć, do widzenia 👋",
+    "example": "Bye! See you tomorrow! 🎯"
+  },
+  {
+    "word": "camera",
+    "translation": "aparat fotograficzny 📷",
+    "example": "He takes photos with his new camera. 🎯"
+  },
+  {
+    "word": "capital",
+    "translation": "stolica 🏛️",
+    "example": "London is the capital of England. 🎯"
+  },
+  {
+    "word": "car",
+    "translation": "samochód 🚗",
+    "example": "My father has a red car. 🎯"
+  },
+  {
+    "word": "cat",
+    "translation": "kot 🐱",
+    "example": "Our cat sleeps all day. 🎯"
+  },
+  {
+    "word": "children",
+    "translation": "dzieci 👧👦",
+    "example": "The children play in the park. 🎯"
+  },
+  {
+    "word": "city",
+    "translation": "miasto 🏙️",
+    "example": "I love living in a big city. 🎯"
+  },
+  {
+    "word": "cleaner",
+    "translation": "sprzątacz/ka 🧹",
+    "example": "The cleaner works in our school. 🎯"
+  },
+  {
+    "word": "college",
+    "translation": "szkoła wyższa, kolegium, uczelnia 🎓",
+    "example": "She studies at a college in London. 🎯"
+  },
+  {
+    "word": "communication",
+    "translation": "komunikacja 📡",
+    "example": "Good communication is very important. 🎯"
+  },
+  {
+    "word": "company",
+    "translation": "przedsiębiorstwo, firma 🏢",
+    "example": "He works for a big company. 🎯"
+  },
+  {
+    "word": "country",
+    "translation": "kraj 🌍",
+    "example": "Poland is a beautiful country. 🎯"
+  },
+  {
+    "word": "cousin",
+    "translation": "kuzyn 👫",
+    "example": "My cousin lives in Kraków. 🎯"
+  },
+  {
+    "word": "dad",
+    "translation": "tata 👨",
+    "example": "My dad makes great breakfast. 🎯"
+  },
+  {
+    "word": "darling",
+    "translation": "kochanie, kochany 💕",
+    "example": "Good morning, darling! 🎯"
+  },
+  {
+    "word": "daughter",
+    "translation": "córka 👧",
+    "example": "Their daughter is five years old. 🎯"
+  },
+  {
+    "word": "dentist",
+    "translation": "dentysta 🦷",
+    "example": "I visit the dentist every six months. 🎯"
+  },
+  {
+    "word": "dictionary",
+    "translation": "słownik 📚",
+    "example": "Use a dictionary to find new words. 🎯"
+  },
+  {
+    "word": "do",
+    "translation": "robić ✅",
+    "example": "What do you do at the weekend? 🎯"
+  },
+  {
+    "word": "doctor",
+    "translation": "lekarz 👨‍⚕️",
+    "example": "The doctor says I need to rest. 🎯"
+  },
+  {
+    "word": "dog",
+    "translation": "pies 🐶",
+    "example": "My dog loves long walks. 🎯"
+  },
+  {
+    "word": "engineer",
+    "translation": "inżynier 🔧",
+    "example": "My uncle is an engineer. 🎯"
+  },
+  {
+    "word": "evening",
+    "translation": "wieczór 🌙",
+    "example": "We watch TV in the evening. 🎯"
+  },
+  {
+    "word": "exercise",
+    "translation": "ćwiczenie 💪",
+    "example": "Do exercise one on page ten. 🎯"
+  },
+  {
+    "word": "false",
+    "translation": "fałszywy, błędny ❌",
+    "example": "That answer is false. 🎯"
+  },
+  {
+    "word": "family",
+    "translation": "rodzina 👨‍👩‍👧‍👦",
+    "example": "I love spending time with my family. 🎯"
+  },
+  {
+    "word": "father",
+    "translation": "ojciec 👨",
+    "example": "My father works in an office. 🎯"
+  },
+  {
+    "word": "favourite",
+    "translation": "ulubiony ⭐",
+    "example": "What is your favourite colour? 🎯"
+  },
+  {
+    "word": "fine",
+    "translation": "dobrze, w porządku 😊",
+    "example": "I am fine, thank you! 🎯"
+  },
+  {
+    "word": "friend",
+    "translation": "przyjaciel 🤝",
+    "example": "She is my best friend. 🎯"
+  },
+  {
+    "word": "from",
+    "translation": "z, pochodzący z 📌",
+    "example": "I am from Poland. 🎯"
+  },
+  {
+    "word": "girl",
+    "translation": "dziewczyna 👧",
+    "example": "The girl reads a book every evening. 🎯"
+  },
+  {
+    "word": "girlfriend",
+    "translation": "przyjaciółka 💑",
+    "example": "His girlfriend is a teacher. 🎯"
+  },
+  {
+    "word": "good",
+    "translation": "dobry 👍",
+    "example": "You are a good student! 🎯"
+  },
+  {
+    "word": "government",
+    "translation": "rząd (kraju, państwa) 🏛️",
+    "example": "The government makes important decisions. 🎯"
+  },
+  {
+    "word": "grandfather",
+    "translation": "dziadek 👴",
+    "example": "My grandfather tells great stories. 🎯"
+  },
+  {
+    "word": "grandmother",
+    "translation": "babcia 👵",
+    "example": "My grandmother makes the best soup. 🎯"
+  },
+  {
+    "word": "grandparents",
+    "translation": "dziadkowie 👴👵",
+    "example": "I visit my grandparents every Sunday. 🎯"
+  },
+  {
+    "word": "have got",
+    "translation": "mieć, posiadać 🤲",
+    "example": "I have got two brothers. 🎯"
+  },
+  {
+    "word": "he",
+    "translation": "on 👨",
+    "example": "He is my brother. 🎯"
+  },
+  {
+    "word": "head",
+    "translation": "głowa 🧠",
+    "example": "Use your head and think carefully. 🎯"
+  },
+  {
+    "word": "hello",
+    "translation": "cześć (na powitanie) 👋",
+    "example": "Hello! My name is Robert. 🎯"
+  },
+  {
+    "word": "her",
+    "translation": "jej 👩",
+    "example": "Her name is Anna. 🎯"
+  },
+  {
+    "word": "hi",
+    "translation": "cześć (na powitanie) 😄",
+    "example": "Hi! How are you today? 🎯"
+  },
+  {
+    "word": "his",
+    "translation": "jego 👨",
+    "example": "His car is very fast. 🎯"
+  },
+  {
+    "word": "homework",
+    "translation": "praca domowa 📝",
+    "example": "Do your homework before dinner. 🎯"
+  },
+  {
+    "word": "hospital",
+    "translation": "szpital 🏥",
+    "example": "The hospital is near the city centre. 🎯"
+  },
+  {
+    "word": "house",
+    "translation": "dom 🏠",
+    "example": "They live in a small house. 🎯"
+  },
+  {
+    "word": "how",
+    "translation": "jak ❓",
+    "example": "How are you today? 🎯"
+  },
+  {
+    "word": "husband",
+    "translation": "mąż 💍",
+    "example": "Her husband is a doctor. 🎯"
+  },
+  {
+    "word": "I",
+    "translation": "ja 🙋",
+    "example": "I am a student. 🎯"
+  },
+  {
+    "word": "in",
+    "translation": "w 📍",
+    "example": "I live in Poland. 🎯"
+  },
+  {
+    "word": "interesting",
+    "translation": "interesujący 🤩",
+    "example": "This book is very interesting. 🎯"
+  },
+  {
+    "word": "it",
+    "translation": "to, ono (o dziecku) 👶",
+    "example": "It is a beautiful day. 🎯"
+  },
+  {
+    "word": "its",
+    "translation": "tego, jego (dziecka) 👶",
+    "example": "The cat drinks its milk. 🎯"
+  },
+  {
+    "word": "job",
+    "translation": "praca, zawód 💼",
+    "example": "What is your job? 🎯"
+  },
+  {
+    "word": "key",
+    "translation": "klucz 🔑",
+    "example": "I lost my key! 🎯"
+  },
+  {
+    "word": "kiss",
+    "translation": "pocałunek, pocałować 💋",
+    "example": "She gives her daughter a kiss goodnight. 🎯"
+  },
+  {
+    "word": "language",
+    "translation": "język 🗣️",
+    "example": "English is a very popular language. 🎯"
+  },
+  {
+    "word": "lesson",
+    "translation": "lekcja 📚",
+    "example": "The English lesson starts at nine. 🎯"
+  },
+  {
+    "word": "listening",
+    "translation": "słuchanie 👂",
+    "example": "Listening to music helps me relax. 🎯"
+  },
+  {
+    "word": "live",
+    "translation": "żyć, mieszkać 🏡",
+    "example": "I live in a small flat. 🎯"
+  },
+  {
+    "word": "love",
+    "translation": "kochać, uwielbiać; miłość ❤️",
+    "example": "I love learning English! 🎯"
+  },
+  {
+    "word": "madam",
+    "translation": "pani (oficjalnie) 👩",
+    "example": "Good morning, madam. How can I help you? 🎯"
+  },
+  {
+    "word": "man",
+    "translation": "mężczyzna, człowiek 👨",
+    "example": "The man in the blue jacket is my teacher. 🎯"
+  },
+  {
+    "word": "marital status",
+    "translation": "stan cywilny 💍",
+    "example": "Please write your marital status on the form. 🎯"
+  },
+  {
+    "word": "married",
+    "translation": "zamężna, żonaty 💒",
+    "example": "They are married and very happy. 🎯"
+  },
+  {
+    "word": "meet",
+    "translation": "spotkać 🤝",
+    "example": "Nice to meet you! 🎯"
+  },
+  {
+    "word": "miss",
+    "translation": "panna 👩",
+    "example": "Miss Smith is our new teacher. 🎯"
+  },
+  {
+    "word": "mom",
+    "translation": "mama 👩",
+    "example": "My mom makes great pizza. 🎯"
+  },
+  {
+    "word": "morning",
+    "translation": "rano, poranek 🌅",
+    "example": "I drink coffee every morning. 🎯"
+  },
+  {
+    "word": "mother",
+    "translation": "matka 👩",
+    "example": "My mother is a nurse. 🎯"
+  },
+  {
+    "word": "Mr",
+    "translation": "pan 👨",
+    "example": "Mr Brown is our English teacher. 🎯"
+  },
+  {
+    "word": "Mrs",
+    "translation": "pani 👩",
+    "example": "Mrs Jones lives next door. 🎯"
+  },
+  {
+    "word": "Ms",
+    "translation": "pani, panna 👩",
+    "example": "Ms Smith is the manager. 🎯"
+  },
+  {
+    "word": "my",
+    "translation": "mój 👤",
+    "example": "My name is Robert. 🎯"
+  },
+  {
+    "word": "name",
+    "translation": "imię 🏷️",
+    "example": "My name is Anna. 🎯"
+  },
+  {
+    "word": "nationality",
+    "translation": "narodowość 🌍",
+    "example": "What is your nationality? 🎯"
+  },
+  {
+    "word": "nice",
+    "translation": "miły 😊",
+    "example": "What a nice day! 🎯"
+  },
+  {
+    "word": "night",
+    "translation": "noc 🌙",
+    "example": "Good night! Sleep well. 🎯"
+  },
+  {
+    "word": "number",
+    "translation": "numer, liczba 🔢",
+    "example": "What is your phone number? 🎯"
+  },
+  {
+    "word": "nurse",
+    "translation": "pielęgniarka 👩‍⚕️",
+    "example": "The nurse is very kind and helpful. 🎯"
+  },
+  {
+    "word": "official",
+    "translation": "oficjalny 📋",
+    "example": "English is the official language here. 🎯"
+  },
+  {
+    "word": "old",
+    "translation": "stary 👴",
+    "example": "This is a very old building. 🎯"
+  },
+  {
+    "word": "on",
+    "translation": "na 📌",
+    "example": "The book is on the table. 🎯"
+  },
+  {
+    "word": "our",
+    "translation": "nasz 👥",
+    "example": "Our teacher is very patient. 🎯"
+  },
+  {
+    "word": "parents",
+    "translation": "rodzice 👨‍👩‍👦",
+    "example": "My parents live in Katowice. 🎯"
+  },
+  {
+    "word": "part",
+    "translation": "część 🧩",
+    "example": "This is the most important part of the lesson. 🎯"
+  },
+  {
+    "word": "people",
+    "translation": "ludzie 👥",
+    "example": "People in this city are very friendly. 🎯"
+  },
+  {
+    "word": "photo",
+    "translation": "zdjęcie 📸",
+    "example": "Can you take a photo of us? 🎯"
+  },
+  {
+    "word": "photographer",
+    "translation": "fotograf 📷",
+    "example": "The photographer takes beautiful pictures. 🎯"
+  },
+  {
+    "word": "place",
+    "translation": "miejsce 📍",
+    "example": "This is a great place to study. 🎯"
+  },
+  {
+    "word": "popular",
+    "translation": "popularny ⭐",
+    "example": "English is a very popular language. 🎯"
+  },
+  {
+    "word": "population",
+    "translation": "zaludnienie, ludność 👥",
+    "example": "The population of Poland is about 38 million. 🎯"
+  },
+  {
+    "word": "prime minister",
+    "translation": "premier rządu 🏛️",
+    "example": "The prime minister speaks on TV every week. 🎯"
+  },
+  {
+    "word": "pronunciation",
+    "translation": "wymowa 🗣️",
+    "example": "Good pronunciation helps people understand you. 🎯"
+  },
+  {
+    "word": "salesperson",
+    "translation": "sprzedawca 🛍️",
+    "example": "The salesperson is very helpful. 🎯"
+  },
+  {
+    "word": "she",
+    "translation": "ona 👩",
+    "example": "She is my sister. 🎯"
+  },
+  {
+    "word": "single",
+    "translation": "stanu wolnego 💍",
+    "example": "Are you single or married? 🎯"
+  },
+  {
+    "word": "sir",
+    "translation": "pan (w oficjalnym angielskim) 👨",
+    "example": "Excuse me, sir, can you help me? 🎯"
+  },
+  {
+    "word": "sister",
+    "translation": "siostra 👧",
+    "example": "My sister is a doctor. 🎯"
+  },
+  {
+    "word": "skill",
+    "translation": "umiejętność 🎯",
+    "example": "Speaking English is a great skill. 🎯"
+  },
+  {
+    "word": "son",
+    "translation": "syn 👦",
+    "example": "Their son is ten years old. 🎯"
+  },
+  {
+    "word": "spell",
+    "translation": "literować 🔤",
+    "example": "Can you spell your surname, please? 🎯"
+  },
+  {
+    "word": "state",
+    "translation": "stan (USA), państwo 🗺️",
+    "example": "New York is a state in the USA. 🎯"
+  },
+  {
+    "word": "street",
+    "translation": "ulica 🏘️",
+    "example": "I live on a quiet street. 🎯"
+  },
+  {
+    "word": "student",
+    "translation": "student 🎓",
+    "example": "He is a student at the university. 🎯"
+  },
+  {
+    "word": "summary",
+    "translation": "zestawienie, streszczenie 📋",
+    "example": "Write a short summary of the text. 🎯"
+  },
+  {
+    "word": "surname",
+    "translation": "nazwisko 🏷️",
+    "example": "My surname is Kowalski. 🎯"
+  },
+  {
+    "word": "teacher",
+    "translation": "nauczyciel 👨‍🏫",
+    "example": "My teacher explains grammar very clearly. 🎯"
+  },
+  {
+    "word": "telephone",
+    "translation": "telefon 📞",
+    "example": "What is your telephone number? 🎯"
+  },
+  {
+    "word": "thank you",
+    "translation": "dziękuję 🙏",
+    "example": "Thank you for your help! 🎯"
+  },
+  {
+    "word": "that",
+    "translation": "tamten 👉",
+    "example": "That man is my father. 🎯"
+  },
+  {
+    "word": "their",
+    "translation": "ich 👥",
+    "example": "Their house is very big. 🎯"
+  },
+  {
+    "word": "these",
+    "translation": "te, ci 👆",
+    "example": "These books are very interesting. 🎯"
+  },
+  {
+    "word": "they",
+    "translation": "oni, one 👥",
+    "example": "They are my best friends. 🎯"
+  },
+  {
+    "word": "this",
+    "translation": "ten, ta, to 👆",
+    "example": "This is my brother. 🎯"
+  },
+  {
+    "word": "those",
+    "translation": "tamci, tamte 👉",
+    "example": "Those students are very clever. 🎯"
+  },
+  {
+    "word": "too",
+    "translation": "także (na końcu zdania) ➕",
+    "example": "I love English, and I love Polish too. 🎯"
+  },
+  {
+    "word": "tourist",
+    "translation": "turysta 🧳",
+    "example": "Many tourists visit Kraków every year. 🎯"
+  },
+  {
+    "word": "true",
+    "translation": "prawdziwy ✅",
+    "example": "Is that true? 🎯"
+  },
+  {
+    "word": "uncle",
+    "translation": "wujek 👨",
+    "example": "My uncle lives in Gdańsk. 🎯"
+  },
+  {
+    "word": "university",
+    "translation": "uniwersytet 🎓",
+    "example": "She studies at the university in Warsaw. 🎯"
+  },
+  {
+    "word": "very",
+    "translation": "bardzo 💯",
+    "example": "I am very happy today! 🎯"
+  },
+  {
+    "word": "welcome",
+    "translation": "witać, powitanie 🤗",
+    "example": "Welcome to our English class! 🎯"
+  },
+  {
+    "word": "what",
+    "translation": "co ❓",
+    "example": "What is your name? 🎯"
+  },
+  {
+    "word": "where",
+    "translation": "gdzie ❓",
+    "example": "Where do you live? 🎯"
+  },
+  {
+    "word": "where... from",
+    "translation": "skąd ❓",
+    "example": "Where are you from? 🎯"
+  },
+  {
+    "word": "who",
+    "translation": "kto ❓",
+    "example": "Who is your favourite teacher? 🎯"
+  },
+  {
+    "word": "wife",
+    "translation": "żona 💍",
+    "example": "His wife is a photographer. 🎯"
+  },
+  {
+    "word": "woman",
+    "translation": "kobieta 👩",
+    "example": "The woman next to me is my aunt. 🎯"
+  },
+  {
+    "word": "work",
+    "translation": "praca 💼",
+    "example": "I go to work every day at eight. 🎯"
+  },
+  {
+    "word": "write",
+    "translation": "pisać ✍️",
+    "example": "Write your name at the top of the page. 🎯"
+  },
+  {
+    "word": "writer",
+    "translation": "pisarz, pisarka 📝",
+    "example": "My favourite writer is from England. 🎯"
+  },
+  {
+    "word": "year",
+    "translation": "rok 📅",
+    "example": "I study English for one year. 🎯"
+  },
+  {
+    "word": "yes",
+    "translation": "tak ✅",
+    "example": "Yes, I understand! 🎯"
+  },
+  {
+    "word": "you",
+    "translation": "ty 👤",
+    "example": "Are you a student? 🎯"
+  },
+  {
+    "word": "young",
+    "translation": "młody 🌱",
+    "example": "She is young and very talented. 🎯"
+  },
+  {
+    "word": "your",
+    "translation": "twój 👤",
+    "example": "What is your favourite subject? 🎯"
+  }
+]
