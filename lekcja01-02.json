@@ -2,382 +2,458 @@
   {
     "word": "actor",
     "translation": "aktor 🎭",
-    "example": "My favourite actor is in a new film. 🎯"
+    "example": "My favourite actor is in a new film. 🎯",
+    "image": "https://images.pexels.com/photos/11650772/pexels-photo-11650772.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "address",
     "translation": "adres 📍",
-    "example": "What is your home address? 🎯"
+    "example": "What is your home address? 🎯",
+    "image": "https://images.pexels.com/photos/5873654/pexels-photo-5873654.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "afternoon",
     "translation": "popołudnie 🌤️",
-    "example": "I visit my grandmother every afternoon. 🎯"
+    "example": "I visit my grandmother every afternoon. 🎯",
+    "image": "https://images.pexels.com/photos/20728279/pexels-photo-20728279.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "again",
     "translation": "znowu 🔁",
-    "example": "Can you say that again, please? 🎯"
+    "example": "Can you say that again, please? 🎯",
+    "image": "https://images.pexels.com/photos/33030215/pexels-photo-33030215.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "age",
     "translation": "wiek 🎂",
-    "example": "What is your age? 🎯"
+    "example": "What is your age? 🎯",
+    "image": "https://images.pexels.com/photos/9485593/pexels-photo-9485593.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "all",
     "translation": "wszyscy, wszystko 🌍",
-    "example": "All my friends live in this city. 🎯"
+    "example": "All my friends live in this city. 🎯",
+    "image": "https://images.pexels.com/photos/13777905/pexels-photo-13777905.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "be",
     "translation": "być 🌟",
-    "example": "I want to be a good teacher. 🎯"
+    "example": "I want to be a good teacher. 🎯",
+    "image": "https://images.pexels.com/photos/977477/pexels-photo-977477.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "big",
     "translation": "duży 🐘",
-    "example": "They live in a big house. 🎯"
+    "example": "They live in a big house. 🎯",
+    "image": "https://images.pexels.com/photos/10942699/pexels-photo-10942699.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "birthday",
     "translation": "urodziny 🎉",
-    "example": "My birthday is in July. 🎯"
+    "example": "My birthday is in July. 🎯",
+    "image": "https://images.pexels.com/photos/32746351/pexels-photo-32746351.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "book",
     "translation": "książka 📖",
-    "example": "This book is very interesting. 🎯"
+    "example": "This book is very interesting. 🎯",
+    "image": "https://images.pexels.com/photos/36740211/pexels-photo-36740211.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "boy",
     "translation": "chłopiec 👦",
-    "example": "The boy plays football after school. 🎯"
+    "example": "The boy plays football after school. 🎯",
+    "image": "https://images.pexels.com/photos/33871405/pexels-photo-33871405.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "boyfriend",
     "translation": "chłopak, przyjaciel 💑",
-    "example": "Her boyfriend is very kind. 🎯"
+    "example": "Her boyfriend is very kind. 🎯",
+    "image": "https://images.pexels.com/photos/13311413/pexels-photo-13311413.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "brother",
     "translation": "brat 👨",
-    "example": "My brother lives in Warsaw. 🎯"
+    "example": "My brother lives in Warsaw. 🎯",
+    "image": "https://images.pexels.com/photos/12244555/pexels-photo-12244555.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "bye",
     "translation": "cześć, do widzenia 👋",
-    "example": "Bye! See you tomorrow! 🎯"
+    "example": "Bye! See you tomorrow! 🎯",
+    "image": "https://images.pexels.com/photos/27978294/pexels-photo-27978294.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "camera",
     "translation": "aparat fotograficzny 📷",
-    "example": "He takes photos with his new camera. 🎯"
+    "example": "He takes photos with his new camera. 🎯",
+    "image": "https://images.pexels.com/photos/758865/pexels-photo-758865.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "capital",
     "translation": "stolica 🏛️",
-    "example": "London is the capital of England. 🎯"
+    "example": "London is the capital of England. 🎯",
+    "image": "https://images.pexels.com/photos/28359077/pexels-photo-28359077.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "car",
     "translation": "samochód 🚗",
-    "example": "My father has a red car. 🎯"
+    "example": "My father has a red car. 🎯",
+    "image": "https://images.pexels.com/photos/86993/pexels-photo-86993.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "cat",
     "translation": "kot 🐱",
-    "example": "Our cat sleeps all day. 🎯"
+    "example": "Our cat sleeps all day. 🎯",
+    "image": "https://images.pexels.com/photos/8861204/pexels-photo-8861204.png?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "children",
     "translation": "dzieci 👧👦",
-    "example": "The children play in the park. 🎯"
+    "example": "The children play in the park. 🎯",
+    "image": "https://images.pexels.com/photos/18845213/pexels-photo-18845213.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "city",
     "translation": "miasto 🏙️",
-    "example": "I love living in a big city. 🎯"
+    "example": "I love living in a big city. 🎯",
+    "image": "https://images.pexels.com/photos/33112743/pexels-photo-33112743.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "cleaner",
     "translation": "sprzątacz/ka 🧹",
-    "example": "The cleaner works in our school. 🎯"
+    "example": "The cleaner works in our school. 🎯",
+    "image": "https://images.pexels.com/photos/30465649/pexels-photo-30465649.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "college",
     "translation": "szkoła wyższa, kolegium, uczelnia 🎓",
-    "example": "She studies at a college in London. 🎯"
+    "example": "She studies at a college in London. 🎯",
+    "image": "https://images.pexels.com/photos/6602623/pexels-photo-6602623.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "communication",
     "translation": "komunikacja 📡",
-    "example": "Good communication is very important. 🎯"
+    "example": "Good communication is very important. 🎯",
+    "image": "https://images.pexels.com/photos/7401211/pexels-photo-7401211.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "company",
     "translation": "przedsiębiorstwo, firma 🏢",
-    "example": "He works for a big company. 🎯"
+    "example": "He works for a big company. 🎯",
+    "image": "https://images.pexels.com/photos/36628880/pexels-photo-36628880.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "country",
     "translation": "kraj 🌍",
-    "example": "Poland is a beautiful country. 🎯"
+    "example": "Poland is a beautiful country. 🎯",
+    "image": "https://images.pexels.com/photos/32713111/pexels-photo-32713111.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "cousin",
     "translation": "kuzyn 👫",
-    "example": "My cousin lives in Kraków. 🎯"
+    "example": "My cousin lives in Kraków. 🎯",
+    "image": "https://images.pexels.com/photos/14122626/pexels-photo-14122626.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "dad",
     "translation": "tata 👨",
-    "example": "My dad makes great breakfast. 🎯"
+    "example": "My dad makes great breakfast. 🎯",
+    "image": "https://images.pexels.com/photos/8709224/pexels-photo-8709224.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "darling",
     "translation": "kochanie, kochany 💕",
-    "example": "Good morning, darling! 🎯"
+    "example": "Good morning, darling! 🎯",
+    "image": "https://images.pexels.com/photos/31765993/pexels-photo-31765993.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "daughter",
     "translation": "córka 👧",
-    "example": "Their daughter is five years old. 🎯"
+    "example": "Their daughter is five years old. 🎯",
+    "image": "https://images.pexels.com/photos/11439050/pexels-photo-11439050.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "dentist",
     "translation": "dentysta 🦷",
-    "example": "I visit the dentist every six months. 🎯"
+    "example": "I visit the dentist every six months. 🎯",
+    "image": "https://images.pexels.com/photos/9951386/pexels-photo-9951386.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "dictionary",
     "translation": "słownik 📚",
-    "example": "Use a dictionary to find new words. 🎯"
+    "example": "Use a dictionary to find new words. 🎯",
+    "image": "https://images.pexels.com/photos/2002217/pexels-photo-2002217.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "do",
     "translation": "robić ✅",
-    "example": "What do you do at the weekend? 🎯"
+    "example": "What do you do at the weekend? 🎯",
+    "image": "https://images.pexels.com/photos/19601376/pexels-photo-19601376.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "doctor",
     "translation": "lekarz 👨‍⚕️",
-    "example": "The doctor says I need to rest. 🎯"
+    "example": "The doctor says I need to rest. 🎯",
+    "image": "https://images.pexels.com/photos/30270934/pexels-photo-30270934.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "dog",
     "translation": "pies 🐶",
-    "example": "My dog loves long walks. 🎯"
+    "example": "My dog loves long walks. 🎯",
+    "image": "https://images.pexels.com/photos/32010257/pexels-photo-32010257.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "engineer",
     "translation": "inżynier 🔧",
-    "example": "My uncle is an engineer. 🎯"
+    "example": "My uncle is an engineer. 🎯",
+    "image": "https://images.pexels.com/photos/31499725/pexels-photo-31499725.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "evening",
     "translation": "wieczór 🌙",
-    "example": "We watch TV in the evening. 🎯"
+    "example": "We watch TV in the evening. 🎯",
+    "image": "https://images.pexels.com/photos/15948109/pexels-photo-15948109.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "exercise",
     "translation": "ćwiczenie 💪",
-    "example": "Do exercise one on page ten. 🎯"
+    "example": "Do exercise one on page ten. 🎯",
+    "image": "https://images.pexels.com/photos/30706445/pexels-photo-30706445.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "false",
     "translation": "fałszywy, błędny ❌",
-    "example": "That answer is false. 🎯"
+    "example": "That answer is false. 🎯",
+    "image": "https://images.pexels.com/photos/9330619/pexels-photo-9330619.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "family",
     "translation": "rodzina 👨‍👩‍👧‍👦",
-    "example": "I love spending time with my family. 🎯"
+    "example": "I love spending time with my family. 🎯",
+    "image": "https://images.pexels.com/photos/21642977/pexels-photo-21642977.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "father",
     "translation": "ojciec 👨",
-    "example": "My father works in an office. 🎯"
+    "example": "My father works in an office. 🎯",
+    "image": "https://images.pexels.com/photos/22601340/pexels-photo-22601340.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "favourite",
     "translation": "ulubiony ⭐",
-    "example": "What is your favourite colour? 🎯"
+    "example": "What is your favourite colour? 🎯",
+    "image": "https://images.pexels.com/photos/5404193/pexels-photo-5404193.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "fine",
     "translation": "dobrze, w porządku 😊",
-    "example": "I am fine, thank you! 🎯"
+    "example": "I am fine, thank you! 🎯",
+    "image": "https://images.pexels.com/photos/8834489/pexels-photo-8834489.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "friend",
     "translation": "przyjaciel 🤝",
-    "example": "She is my best friend. 🎯"
+    "example": "She is my best friend. 🎯",
+    "image": "https://images.pexels.com/photos/10113393/pexels-photo-10113393.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "from",
     "translation": "z, pochodzący z 📌",
-    "example": "I am from Poland. 🎯"
+    "example": "I am from Poland. 🎯",
+    "image": "https://images.pexels.com/photos/6288281/pexels-photo-6288281.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "girl",
     "translation": "dziewczyna 👧",
-    "example": "The girl reads a book every evening. 🎯"
+    "example": "The girl reads a book every evening. 🎯",
+    "image": "https://images.pexels.com/photos/33871404/pexels-photo-33871404.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "girlfriend",
     "translation": "przyjaciółka 💑",
-    "example": "His girlfriend is a teacher. 🎯"
+    "example": "His girlfriend is a teacher. 🎯",
+    "image": "https://images.pexels.com/photos/31687008/pexels-photo-31687008.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "good",
     "translation": "dobry 👍",
-    "example": "You are a good student! 🎯"
+    "example": "You are a good student! 🎯",
+    "image": "https://images.pexels.com/photos/30760129/pexels-photo-30760129.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "government",
     "translation": "rząd (kraju, państwa) 🏛️",
-    "example": "The government makes important decisions. 🎯"
+    "example": "The government makes important decisions. 🎯",
+    "image": "https://images.pexels.com/photos/28359077/pexels-photo-28359077.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "grandfather",
     "translation": "dziadek 👴",
-    "example": "My grandfather tells great stories. 🎯"
+    "example": "My grandfather tells great stories. 🎯",
+    "image": "https://images.pexels.com/photos/13895055/pexels-photo-13895055.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "grandmother",
     "translation": "babcia 👵",
-    "example": "My grandmother makes the best soup. 🎯"
+    "example": "My grandmother makes the best soup. 🎯",
+    "image": "https://images.pexels.com/photos/20722029/pexels-photo-20722029.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "grandparents",
     "translation": "dziadkowie 👴👵",
-    "example": "I visit my grandparents every Sunday. 🎯"
+    "example": "I visit my grandparents every Sunday. 🎯",
+    "image": "https://images.pexels.com/photos/22601340/pexels-photo-22601340.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "have got",
     "translation": "mieć, posiadać 🤲",
-    "example": "I have got two brothers. 🎯"
+    "example": "I have got two brothers. 🎯",
+    "image": "https://images.pexels.com/photos/9472034/pexels-photo-9472034.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "he",
     "translation": "on 👨",
-    "example": "He is my brother. 🎯"
+    "example": "He is my brother. 🎯",
+    "image": "https://images.pexels.com/photos/19601376/pexels-photo-19601376.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "head",
     "translation": "głowa 🧠",
-    "example": "Use your head and think carefully. 🎯"
+    "example": "Use your head and think carefully. 🎯",
+    "image": "https://images.pexels.com/photos/2380794/pexels-photo-2380794.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "hello",
     "translation": "cześć (na powitanie) 👋",
-    "example": "Hello! My name is Robert. 🎯"
+    "example": "Hello! My name is Robert. 🎯",
+    "image": "https://images.pexels.com/photos/6289156/pexels-photo-6289156.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "her",
     "translation": "jej 👩",
-    "example": "Her name is Anna. 🎯"
+    "example": "Her name is Anna. 🎯",
+    "image": "https://images.pexels.com/photos/13548632/pexels-photo-13548632.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "hi",
     "translation": "cześć (na powitanie) 😄",
-    "example": "Hi! How are you today? 🎯"
+    "example": "Hi! How are you today? 🎯",
+    "image": "https://images.pexels.com/photos/8832748/pexels-photo-8832748.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "his",
     "translation": "jego 👨",
-    "example": "His car is very fast. 🎯"
+    "example": "His car is very fast. 🎯",
+    "image": "https://images.pexels.com/photos/8832726/pexels-photo-8832726.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "homework",
     "translation": "praca domowa 📝",
-    "example": "Do your homework before dinner. 🎯"
+    "example": "Do your homework before dinner. 🎯",
+    "image": "https://images.pexels.com/photos/9489923/pexels-photo-9489923.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "hospital",
     "translation": "szpital 🏥",
-    "example": "The hospital is near the city centre. 🎯"
+    "example": "The hospital is near the city centre. 🎯",
+    "image": "https://images.pexels.com/photos/14530635/pexels-photo-14530635.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "house",
     "translation": "dom 🏠",
-    "example": "They live in a small house. 🎯"
+    "example": "They live in a small house. 🎯",
+    "image": "https://images.pexels.com/photos/30348304/pexels-photo-30348304.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "how",
     "translation": "jak ❓",
-    "example": "How are you today? 🎯"
+    "example": "How are you today? 🎯",
+    "image": "https://images.pexels.com/photos/10813860/pexels-photo-10813860.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "husband",
     "translation": "mąż 💍",
-    "example": "Her husband is a doctor. 🎯"
+    "example": "Her husband is a doctor. 🎯",
+    "image": "https://images.pexels.com/photos/19950472/pexels-photo-19950472.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "I",
     "translation": "ja 🙋",
-    "example": "I am a student. 🎯"
+    "example": "I am a student. 🎯",
+    "image": "https://images.pexels.com/photos/36680544/pexels-photo-36680544.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "in",
     "translation": "w 📍",
-    "example": "I live in Poland. 🎯"
+    "example": "I live in Poland. 🎯",
+    "image": "https://images.pexels.com/photos/16005631/pexels-photo-16005631.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "interesting",
     "translation": "interesujący 🤩",
-    "example": "This book is very interesting. 🎯"
+    "example": "This book is very interesting. 🎯",
+    "image": "https://images.pexels.com/photos/31962582/pexels-photo-31962582.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "it",
     "translation": "to, ono (o dziecku) 👶",
-    "example": "It is a beautiful day. 🎯"
+    "example": "It is a beautiful day. 🎯",
+    "image": "https://images.pexels.com/photos/36718238/pexels-photo-36718238.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "its",
     "translation": "tego, jego (dziecka) 👶",
-    "example": "The cat drinks its milk. 🎯"
+    "example": "The cat drinks its milk. 🎯",
+    "image": "https://images.pexels.com/photos/17210072/pexels-photo-17210072.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "job",
     "translation": "praca, zawód 💼",
-    "example": "What is your job? 🎯"
+    "example": "What is your job? 🎯",
+    "image": "https://images.pexels.com/photos/9396159/pexels-photo-9396159.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "key",
     "translation": "klucz 🔑",
-    "example": "I lost my key! 🎯"
+    "example": "I lost my key! 🎯",
+    "image": "https://images.pexels.com/photos/14954821/pexels-photo-14954821.png?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "kiss",
     "translation": "pocałunek, pocałować 💋",
-    "example": "She gives her daughter a kiss goodnight. 🎯"
+    "example": "She gives her daughter a kiss goodnight. 🎯",
+    "image": "https://images.pexels.com/photos/12450250/pexels-photo-12450250.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "language",
     "translation": "język 🗣️",
-    "example": "English is a very popular language. 🎯"
+    "example": "English is a very popular language. 🎯",
+    "image": "https://images.pexels.com/photos/1454797/pexels-photo-1454797.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "lesson",
     "translation": "lekcja 📚",
-    "example": "The English lesson starts at nine. 🎯"
+    "example": "The English lesson starts at nine. 🎯",
+    "image": "https://images.pexels.com/photos/8617769/pexels-photo-8617769.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "listening",
     "translation": "słuchanie 👂",
-    "example": "Listening to music helps me relax. 🎯"
+    "example": "Listening to music helps me relax. 🎯",
+    "image": "https://images.pexels.com/photos/11861959/pexels-photo-11861959.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "live",
     "translation": "żyć, mieszkać 🏡",
-    "example": "I live in a small flat. 🎯"
+    "example": "I live in a small flat. 🎯",
+    "image": "https://images.pexels.com/photos/29755921/pexels-photo-29755921.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "love",
     "translation": "kochać, uwielbiać; miłość ❤️",
-    "example": "I love learning English! 🎯"
+    "example": "I love learning English! 🎯",
+    "image": "https://images.pexels.com/photos/6288350/pexels-photo-6288350.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "madam",
@@ -387,42 +463,50 @@
   {
     "word": "man",
     "translation": "mężczyzna, człowiek 👨",
-    "example": "The man in the blue jacket is my teacher. 🎯"
+    "example": "The man in the blue jacket is my teacher. 🎯",
+    "image": "https://images.pexels.com/photos/7752813/pexels-photo-7752813.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "marital status",
     "translation": "stan cywilny 💍",
-    "example": "Please write your marital status on the form. 🎯"
+    "example": "Please write your marital status on the form. 🎯",
+    "image": "https://images.pexels.com/photos/7742859/pexels-photo-7742859.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "married",
     "translation": "zamężna, żonaty 💒",
-    "example": "They are married and very happy. 🎯"
+    "example": "They are married and very happy. 🎯",
+    "image": "https://images.pexels.com/photos/19950472/pexels-photo-19950472.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "meet",
     "translation": "spotkać 🤝",
-    "example": "Nice to meet you! 🎯"
+    "example": "Nice to meet you! 🎯",
+    "image": "https://images.pexels.com/photos/36742849/pexels-photo-36742849.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "miss",
     "translation": "panna 👩",
-    "example": "Miss Smith is our new teacher. 🎯"
+    "example": "Miss Smith is our new teacher. 🎯",
+    "image": "https://images.pexels.com/photos/10807292/pexels-photo-10807292.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "mom",
     "translation": "mama 👩",
-    "example": "My mom makes great pizza. 🎯"
+    "example": "My mom makes great pizza. 🎯",
+    "image": "https://images.pexels.com/photos/30514039/pexels-photo-30514039.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "morning",
     "translation": "rano, poranek 🌅",
-    "example": "I drink coffee every morning. 🎯"
+    "example": "I drink coffee every morning. 🎯",
+    "image": "https://images.pexels.com/photos/13180594/pexels-photo-13180594.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "mother",
     "translation": "matka 👩",
-    "example": "My mother is a nurse. 🎯"
+    "example": "My mother is a nurse. 🎯",
+    "image": "https://images.pexels.com/photos/33858777/pexels-photo-33858777.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "Mr",
@@ -432,187 +516,224 @@
   {
     "word": "Mrs",
     "translation": "pani 👩",
-    "example": "Mrs Jones lives next door. 🎯"
+    "example": "Mrs Jones lives next door. 🎯",
+    "image": "https://images.pexels.com/photos/35146324/pexels-photo-35146324.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "Ms",
     "translation": "pani, panna 👩",
-    "example": "Ms Smith is the manager. 🎯"
+    "example": "Ms Smith is the manager. 🎯",
+    "image": "https://images.pexels.com/photos/29995629/pexels-photo-29995629.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "my",
     "translation": "mój 👤",
-    "example": "My name is Robert. 🎯"
+    "example": "My name is Robert. 🎯",
+    "image": "https://images.pexels.com/photos/12743212/pexels-photo-12743212.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "name",
     "translation": "imię 🏷️",
-    "example": "My name is Anna. 🎯"
+    "example": "My name is Anna. 🎯",
+    "image": "https://images.pexels.com/photos/17392214/pexels-photo-17392214.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "nationality",
     "translation": "narodowość 🌍",
-    "example": "What is your nationality? 🎯"
+    "example": "What is your nationality? 🎯",
+    "image": "https://images.pexels.com/photos/12699769/pexels-photo-12699769.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "nice",
     "translation": "miły 😊",
-    "example": "What a nice day! 🎯"
+    "example": "What a nice day! 🎯",
+    "image": "https://images.pexels.com/photos/3215513/pexels-photo-3215513.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "night",
     "translation": "noc 🌙",
-    "example": "Good night! Sleep well. 🎯"
+    "example": "Good night! Sleep well. 🎯",
+    "image": "https://images.pexels.com/photos/26698229/pexels-photo-26698229.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "number",
     "translation": "numer, liczba 🔢",
-    "example": "What is your phone number? 🎯"
+    "example": "What is your phone number? 🎯",
+    "image": "https://images.pexels.com/photos/6289155/pexels-photo-6289155.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "nurse",
     "translation": "pielęgniarka 👩‍⚕️",
-    "example": "The nurse is very kind and helpful. 🎯"
+    "example": "The nurse is very kind and helpful. 🎯",
+    "image": "https://images.pexels.com/photos/29995629/pexels-photo-29995629.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "official",
     "translation": "oficjalny 📋",
-    "example": "English is the official language here. 🎯"
+    "example": "English is the official language here. 🎯",
+    "image": "https://images.pexels.com/photos/163039/football-american-football-referee-referee-football-official-163039.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "old",
     "translation": "stary 👴",
-    "example": "This is a very old building. 🎯"
+    "example": "This is a very old building. 🎯",
+    "image": "https://images.pexels.com/photos/9396155/pexels-photo-9396155.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "on",
     "translation": "na 📌",
-    "example": "The book is on the table. 🎯"
+    "example": "The book is on the table. 🎯",
+    "image": "https://images.pexels.com/photos/30214415/pexels-photo-30214415.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "our",
     "translation": "nasz 👥",
-    "example": "Our teacher is very patient. 🎯"
+    "example": "Our teacher is very patient. 🎯",
+    "image": "https://images.pexels.com/photos/11850574/pexels-photo-11850574.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "parents",
     "translation": "rodzice 👨‍👩‍👦",
-    "example": "My parents live in Katowice. 🎯"
+    "example": "My parents live in Katowice. 🎯",
+    "image": "https://images.pexels.com/photos/20354812/pexels-photo-20354812.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "part",
     "translation": "część 🧩",
-    "example": "This is the most important part of the lesson. 🎯"
+    "example": "This is the most important part of the lesson. 🎯",
+    "image": "https://images.pexels.com/photos/22711072/pexels-photo-22711072.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "people",
     "translation": "ludzie 👥",
-    "example": "People in this city are very friendly. 🎯"
+    "example": "People in this city are very friendly. 🎯",
+    "image": "https://images.pexels.com/photos/33934114/pexels-photo-33934114.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "photo",
     "translation": "zdjęcie 📸",
-    "example": "Can you take a photo of us? 🎯"
+    "example": "Can you take a photo of us? 🎯",
+    "image": "https://images.pexels.com/photos/29442189/pexels-photo-29442189.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "photographer",
     "translation": "fotograf 📷",
-    "example": "The photographer takes beautiful pictures. 🎯"
+    "example": "The photographer takes beautiful pictures. 🎯",
+    "image": "https://images.pexels.com/photos/10972243/pexels-photo-10972243.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "place",
     "translation": "miejsce 📍",
-    "example": "This is a great place to study. 🎯"
+    "example": "This is a great place to study. 🎯",
+    "image": "https://images.pexels.com/photos/31215646/pexels-photo-31215646.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "popular",
     "translation": "popularny ⭐",
-    "example": "English is a very popular language. 🎯"
+    "example": "English is a very popular language. 🎯",
+    "image": "https://images.pexels.com/photos/30073851/pexels-photo-30073851.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "population",
     "translation": "zaludnienie, ludność 👥",
-    "example": "The population of Poland is about 38 million. 🎯"
+    "example": "The population of Poland is about 38 million. 🎯",
+    "image": "https://images.pexels.com/photos/5504681/pexels-photo-5504681.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "prime minister",
     "translation": "premier rządu 🏛️",
-    "example": "The prime minister speaks on TV every week. 🎯"
+    "example": "The prime minister speaks on TV every week. 🎯",
+    "image": "https://images.pexels.com/photos/14997965/pexels-photo-14997965.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "pronunciation",
     "translation": "wymowa 🗣️",
-    "example": "Good pronunciation helps people understand you. 🎯"
+    "example": "Good pronunciation helps people understand you. 🎯",
+    "image": "https://images.pexels.com/photos/25643183/pexels-photo-25643183.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "salesperson",
     "translation": "sprzedawca 🛍️",
-    "example": "The salesperson is very helpful. 🎯"
+    "example": "The salesperson is very helpful. 🎯",
+    "image": "https://images.pexels.com/photos/27663571/pexels-photo-27663571.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "she",
     "translation": "ona 👩",
-    "example": "She is my sister. 🎯"
+    "example": "She is my sister. 🎯",
+    "image": "https://images.pexels.com/photos/5904145/pexels-photo-5904145.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "single",
     "translation": "stanu wolnego 💍",
-    "example": "Are you single or married? 🎯"
+    "example": "Are you single or married? 🎯",
+    "image": "https://images.pexels.com/photos/11229653/pexels-photo-11229653.png?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "sir",
     "translation": "pan (w oficjalnym angielskim) 👨",
-    "example": "Excuse me, sir, can you help me? 🎯"
+    "example": "Excuse me, sir, can you help me? 🎯",
+    "image": "https://images.pexels.com/photos/10370759/pexels-photo-10370759.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "sister",
     "translation": "siostra 👧",
-    "example": "My sister is a doctor. 🎯"
+    "example": "My sister is a doctor. 🎯",
+    "image": "https://images.pexels.com/photos/8430290/pexels-photo-8430290.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "skill",
     "translation": "umiejętność 🎯",
-    "example": "Speaking English is a great skill. 🎯"
+    "example": "Speaking English is a great skill. 🎯",
+    "image": "https://images.pexels.com/photos/9510507/pexels-photo-9510507.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "son",
     "translation": "syn 👦",
-    "example": "Their son is ten years old. 🎯"
+    "example": "Their son is ten years old. 🎯",
+    "image": "https://images.pexels.com/photos/25047761/pexels-photo-25047761.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "spell",
     "translation": "literować 🔤",
-    "example": "Can you spell your surname, please? 🎯"
+    "example": "Can you spell your surname, please? 🎯",
+    "image": "https://images.pexels.com/photos/33613065/pexels-photo-33613065.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "state",
     "translation": "stan (USA), państwo 🗺️",
-    "example": "New York is a state in the USA. 🎯"
+    "example": "New York is a state in the USA. 🎯",
+    "image": "https://images.pexels.com/photos/25749388/pexels-photo-25749388.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "street",
     "translation": "ulica 🏘️",
-    "example": "I live on a quiet street. 🎯"
+    "example": "I live on a quiet street. 🎯",
+    "image": "https://images.pexels.com/photos/123007/pexels-photo-123007.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "student",
     "translation": "student 🎓",
-    "example": "He is a student at the university. 🎯"
+    "example": "He is a student at the university. 🎯",
+    "image": "https://images.pexels.com/photos/9489771/pexels-photo-9489771.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "summary",
     "translation": "zestawienie, streszczenie 📋",
-    "example": "Write a short summary of the text. 🎯"
+    "example": "Write a short summary of the text. 🎯",
+    "image": "https://images.pexels.com/photos/11288844/pexels-photo-11288844.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "surname",
     "translation": "nazwisko 🏷️",
-    "example": "My surname is Kowalski. 🎯"
+    "example": "My surname is Kowalski. 🎯",
+    "image": "https://images.pexels.com/photos/16927333/pexels-photo-16927333.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "teacher",
     "translation": "nauczyciel 👨‍🏫",
-    "example": "My teacher explains grammar very clearly. 🎯"
+    "example": "My teacher explains grammar very clearly. 🎯",
+    "image": "https://images.pexels.com/photos/8617961/pexels-photo-8617961.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "telephone",
@@ -632,127 +753,152 @@
   {
     "word": "their",
     "translation": "ich 👥",
-    "example": "Their house is very big. 🎯"
+    "example": "Their house is very big. 🎯",
+    "image": "https://images.pexels.com/photos/12868614/pexels-photo-12868614.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "these",
     "translation": "te, ci 👆",
-    "example": "These books are very interesting. 🎯"
+    "example": "These books are very interesting. 🎯",
+    "image": "https://images.pexels.com/photos/760863/pexels-photo-760863.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "they",
     "translation": "oni, one 👥",
-    "example": "They are my best friends. 🎯"
+    "example": "They are my best friends. 🎯",
+    "image": "https://images.pexels.com/photos/19344136/pexels-photo-19344136.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "this",
     "translation": "ten, ta, to 👆",
-    "example": "This is my brother. 🎯"
+    "example": "This is my brother. 🎯",
+    "image": "https://images.pexels.com/photos/15360988/pexels-photo-15360988.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "those",
     "translation": "tamci, tamte 👉",
-    "example": "Those students are very clever. 🎯"
+    "example": "Those students are very clever. 🎯",
+    "image": "https://images.pexels.com/photos/33047875/pexels-photo-33047875.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "too",
     "translation": "także (na końcu zdania) ➕",
-    "example": "I love English, and I love Polish too. 🎯"
+    "example": "I love English, and I love Polish too. 🎯",
+    "image": "https://images.pexels.com/photos/2573933/pexels-photo-2573933.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "tourist",
     "translation": "turysta 🧳",
-    "example": "Many tourists visit Kraków every year. 🎯"
+    "example": "Many tourists visit Kraków every year. 🎯",
+    "image": "https://images.pexels.com/photos/13316929/pexels-photo-13316929.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "true",
     "translation": "prawdziwy ✅",
-    "example": "Is that true? 🎯"
+    "example": "Is that true? 🎯",
+    "image": "https://images.pexels.com/photos/28181734/pexels-photo-28181734.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "uncle",
     "translation": "wujek 👨",
-    "example": "My uncle lives in Gdańsk. 🎯"
+    "example": "My uncle lives in Gdańsk. 🎯",
+    "image": "https://images.pexels.com/photos/34057128/pexels-photo-34057128.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "university",
     "translation": "uniwersytet 🎓",
-    "example": "She studies at the university in Warsaw. 🎯"
+    "example": "She studies at the university in Warsaw. 🎯",
+    "image": "https://images.pexels.com/photos/20728227/pexels-photo-20728227.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "very",
     "translation": "bardzo 💯",
-    "example": "I am very happy today! 🎯"
+    "example": "I am very happy today! 🎯",
+    "image": "https://images.pexels.com/photos/32729968/pexels-photo-32729968.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "welcome",
     "translation": "witać, powitanie 🤗",
-    "example": "Welcome to our English class! 🎯"
+    "example": "Welcome to our English class! 🎯",
+    "image": "https://images.pexels.com/photos/36742849/pexels-photo-36742849.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "what",
     "translation": "co ❓",
-    "example": "What is your name? 🎯"
+    "example": "What is your name? 🎯",
+    "image": "https://images.pexels.com/photos/36922121/pexels-photo-36922121.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "where",
     "translation": "gdzie ❓",
-    "example": "Where do you live? 🎯"
+    "example": "Where do you live? 🎯",
+    "image": "https://images.pexels.com/photos/6288245/pexels-photo-6288245.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "where... from",
     "translation": "skąd ❓",
-    "example": "Where are you from? 🎯"
+    "example": "Where are you from? 🎯",
+    "image": "https://images.pexels.com/photos/11984918/pexels-photo-11984918.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "who",
     "translation": "kto ❓",
-    "example": "Who is your favourite teacher? 🎯"
+    "example": "Who is your favourite teacher? 🎯",
+    "image": "https://images.pexels.com/photos/32315949/pexels-photo-32315949.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "wife",
     "translation": "żona 💍",
-    "example": "His wife is a photographer. 🎯"
+    "example": "His wife is a photographer. 🎯",
+    "image": "https://images.pexels.com/photos/33086701/pexels-photo-33086701.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "woman",
     "translation": "kobieta 👩",
-    "example": "The woman next to me is my aunt. 🎯"
+    "example": "The woman next to me is my aunt. 🎯",
+    "image": "https://images.pexels.com/photos/16160848/pexels-photo-16160848.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "work",
     "translation": "praca 💼",
-    "example": "I go to work every day at eight. 🎯"
+    "example": "I go to work every day at eight. 🎯",
+    "image": "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "write",
     "translation": "pisać ✍️",
-    "example": "Write your name at the top of the page. 🎯"
+    "example": "Write your name at the top of the page. 🎯",
+    "image": "https://images.pexels.com/photos/29737184/pexels-photo-29737184.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "writer",
     "translation": "pisarz, pisarka 📝",
-    "example": "My favourite writer is from England. 🎯"
+    "example": "My favourite writer is from England. 🎯",
+    "image": "https://images.pexels.com/photos/20107126/pexels-photo-20107126.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "year",
     "translation": "rok 📅",
-    "example": "I study English for one year. 🎯"
+    "example": "I study English for one year. 🎯",
+    "image": "https://images.pexels.com/photos/29113533/pexels-photo-29113533.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "yes",
     "translation": "tak ✅",
-    "example": "Yes, I understand! 🎯"
+    "example": "Yes, I understand! 🎯",
+    "image": "https://images.pexels.com/photos/8834489/pexels-photo-8834489.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "you",
     "translation": "ty 👤",
-    "example": "Are you a student? 🎯"
+    "example": "Are you a student? 🎯",
+    "image": "https://images.pexels.com/photos/10426587/pexels-photo-10426587.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "young",
     "translation": "młody 🌱",
-    "example": "She is young and very talented. 🎯"
+    "example": "She is young and very talented. 🎯",
+    "image": "https://images.pexels.com/photos/9521668/pexels-photo-9521668.jpeg?auto=compress&cs=tinysrgb&h=130"
   },
   {
     "word": "your",
