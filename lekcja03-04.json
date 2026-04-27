@@ -1,0 +1,1352 @@
+[
+  {
+    "word": "a little",
+    "translation": "trochę 🤏",
+    "example": "Can I have a little milk in my coffee? 🎯",
+    "image": "https://images.pexels.com/photos/33871414/pexels-photo-33871414.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "a lot (of)",
+    "translation": "dużo, sporo 📦",
+    "example": "There are a lot of people in the park today. 🎯",
+    "image": ""
+  },
+  {
+    "word": "above",
+    "translation": "ponad ⬆️",
+    "example": "The picture is above the sofa. 🎯",
+    "image": ""
+  },
+  {
+    "word": "airport",
+    "translation": "lotnisko ✈️",
+    "example": "We need to be at the airport at six in the morning. 🎯",
+    "image": "https://images.pexels.com/photos/10965905/pexels-photo-10965905.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "almost",
+    "translation": "prawie 🕐",
+    "example": "It is almost nine o'clock — time to go! 🎯",
+    "image": "https://images.pexels.com/photos/36929940/pexels-photo-36929940.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "also",
+    "translation": "także, również ➕",
+    "example": "She speaks French and also a little Spanish. 🎯",
+    "image": "https://images.pexels.com/photos/28208855/pexels-photo-28208855.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "always",
+    "translation": "zawsze 🔁",
+    "example": "I always have breakfast before work. 🎯",
+    "image": "https://images.pexels.com/photos/23008/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "another",
+    "translation": "inny, drugi 🔄",
+    "example": "Can I have another cup of tea, please? 🎯",
+    "image": "https://images.pexels.com/photos/37105390/pexels-photo-37105390.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "any",
+    "translation": "żaden, jakiś ❓",
+    "example": "Do you have any brothers or sisters? 🎯",
+    "image": "https://images.pexels.com/photos/4655044/pexels-photo-4655044.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "armchair",
+    "translation": "fotel 🪑",
+    "example": "My grandfather always sits in the big armchair. 🎯",
+    "image": "https://images.pexels.com/photos/7512608/pexels-photo-7512608.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "attraction",
+    "translation": "atrakcja 🎡",
+    "example": "The Eiffel Tower is a famous tourist attraction. 🎯",
+    "image": "https://images.pexels.com/photos/34671022/pexels-photo-34671022.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "awful",
+    "translation": "straszny 😱",
+    "example": "The weather today is absolutely awful. 🎯",
+    "image": "https://images.pexels.com/photos/5946095/pexels-photo-5946095.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "baby",
+    "translation": "dziecko 👶",
+    "example": "The baby is sleeping in the bedroom. 🎯",
+    "image": "https://images.pexels.com/photos/34618519/pexels-photo-34618519.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bad",
+    "translation": "zły 👎",
+    "example": "This is a bad idea — let's think of something else. 🎯",
+    "image": "https://images.pexels.com/photos/36870766/pexels-photo-36870766.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bank",
+    "translation": "bank 🏦",
+    "example": "The bank is next to the post office. 🎯",
+    "image": "https://images.pexels.com/photos/27670547/pexels-photo-27670547.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bath",
+    "translation": "wanna 🛁",
+    "example": "I love a hot bath after a long day. 🎯",
+    "image": "https://images.pexels.com/photos/8725647/pexels-photo-8725647.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bathroom",
+    "translation": "łazienka 🚿",
+    "example": "The bathroom is upstairs on the right. 🎯",
+    "image": "https://images.pexels.com/photos/18440206/pexels-photo-18440206.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "be tired of",
+    "translation": "być zmęczonym czymś 😮‍💨",
+    "example": "I am tired of watching television every evening. 🎯",
+    "image": ""
+  },
+  {
+    "word": "beautiful",
+    "translation": "piękny 😍",
+    "example": "What a beautiful garden you have! 🎯",
+    "image": "https://images.pexels.com/photos/36768049/pexels-photo-36768049.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bed",
+    "translation": "łóżko 🛏️",
+    "example": "The cat is sleeping on my bed again. 🎯",
+    "image": "https://images.pexels.com/photos/11494420/pexels-photo-11494420.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bedroom",
+    "translation": "sypialnia 🛏️",
+    "example": "Our flat has two bedrooms and one bathroom. 🎯",
+    "image": "https://images.pexels.com/photos/34277682/pexels-photo-34277682.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "behind",
+    "translation": "za, z tyłu ↩️",
+    "example": "The car park is behind the supermarket. 🎯",
+    "image": "https://images.pexels.com/photos/7261633/pexels-photo-7261633.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "belong",
+    "translation": "należeć 🏷️",
+    "example": "Does this bag belong to you? 🎯",
+    "image": "https://images.pexels.com/photos/30089238/pexels-photo-30089238.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "between",
+    "translation": "pomiędzy, między ↔️",
+    "example": "The cinema is between the bank and the restaurant. 🎯",
+    "image": ""
+  },
+  {
+    "word": "bicycle",
+    "translation": "rower 🚲",
+    "example": "She rides her bicycle to school every day. 🎯",
+    "image": "https://images.pexels.com/photos/16778082/pexels-photo-16778082.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "big",
+    "translation": "duży 🐘",
+    "example": "They live in a big house near the park. 🎯",
+    "image": "https://images.pexels.com/photos/10942699/pexels-photo-10942699.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "black",
+    "translation": "czarny 🖤",
+    "example": "He always wears a black jacket to work. 🎯",
+    "image": "https://images.pexels.com/photos/19248893/pexels-photo-19248893.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "blue",
+    "translation": "niebieski 💙",
+    "example": "The sky is bright blue today. 🎯",
+    "image": "https://images.pexels.com/photos/10481464/pexels-photo-10481464.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bookcase",
+    "translation": "regał na książki 📚",
+    "example": "There is a tall bookcase in the living room. 🎯",
+    "image": "https://images.pexels.com/photos/32178067/pexels-photo-32178067.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "both",
+    "translation": "oba, oboje 👫",
+    "example": "Both children love chocolate ice cream. 🎯",
+    "image": "https://images.pexels.com/photos/29366799/pexels-photo-29366799.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "box",
+    "translation": "pudełko 📦",
+    "example": "Put the old books in that box, please. 🎯",
+    "image": "https://images.pexels.com/photos/29765813/pexels-photo-29765813.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "brown",
+    "translation": "brązowy 🟤",
+    "example": "She has long brown hair and green eyes. 🎯",
+    "image": "https://images.pexels.com/photos/26712439/pexels-photo-26712439.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bus",
+    "translation": "autobus 🚌",
+    "example": "The bus to the city centre leaves every ten minutes. 🎯",
+    "image": "https://images.pexels.com/photos/7617763/pexels-photo-7617763.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bus station",
+    "translation": "dworzec autobusowy 🚏",
+    "example": "The bus station is near the railway station. 🎯",
+    "image": "https://images.pexels.com/photos/25906188/pexels-photo-25906188.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "bus stop",
+    "translation": "przystanek autobusowy 🚏",
+    "example": "I wait at the bus stop every morning. 🎯",
+    "image": "https://images.pexels.com/photos/8597462/pexels-photo-8597462.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "business",
+    "translation": "biznes, firma 💼",
+    "example": "He runs a small business in the city centre. 🎯",
+    "image": "https://images.pexels.com/photos/7752816/pexels-photo-7752816.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "buy",
+    "translation": "kupować 🛍️",
+    "example": "I need to buy some milk and bread today. 🎯",
+    "image": "https://images.pexels.com/photos/10854625/pexels-photo-10854625.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "buying",
+    "translation": "kupowanie 🛒",
+    "example": "Buying a new flat is a big decision. 🎯",
+    "image": "https://images.pexels.com/photos/9070122/pexels-photo-9070122.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "café",
+    "translation": "kawiarnia ☕",
+    "example": "Let's meet at the café near the museum. 🎯",
+    "image": "https://images.pexels.com/photos/2074124/pexels-photo-2074124.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "call",
+    "translation": "nazywać, dzwonić 📞",
+    "example": "Can you call me when you get home? 🎯",
+    "image": "https://images.pexels.com/photos/18194279/pexels-photo-18194279.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "called",
+    "translation": "nazywany 🏷️",
+    "example": "There is a restaurant called The Blue Rose near here. 🎯",
+    "image": "https://images.pexels.com/photos/11861959/pexels-photo-11861959.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "can",
+    "translation": "móc, umieć, potrafić 💪",
+    "example": "Can you drive a car? 🎯",
+    "image": "https://images.pexels.com/photos/35740586/pexels-photo-35740586.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "car park",
+    "translation": "parking 🅿️",
+    "example": "The car park behind the hotel is free. 🎯",
+    "image": "https://images.pexels.com/photos/20618938/pexels-photo-20618938.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "carpet",
+    "translation": "dywan 🏠",
+    "example": "There is a beautiful red carpet in the living room. 🎯",
+    "image": "https://images.pexels.com/photos/34113608/pexels-photo-34113608.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "castle",
+    "translation": "zamek 🏰",
+    "example": "The old castle is the most popular attraction in town. 🎯",
+    "image": "https://images.pexels.com/photos/31943528/pexels-photo-31943528.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "ceiling",
+    "translation": "sufit 🔝",
+    "example": "The ceiling in this room is very high. 🎯",
+    "image": "https://images.pexels.com/photos/35722221/pexels-photo-35722221.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "centre",
+    "translation": "środek, centrum 🏙️",
+    "example": "The hotel is in the centre of the city. 🎯",
+    "image": "https://images.pexels.com/photos/17107738/pexels-photo-17107738.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "chair",
+    "translation": "krzesło 🪑",
+    "example": "Please pull up a chair and sit down. 🎯",
+    "image": "https://images.pexels.com/photos/11112738/pexels-photo-11112738.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "chemist's",
+    "translation": "apteka 💊",
+    "example": "I need to go to the chemist's to buy some medicine. 🎯",
+    "image": "https://images.pexels.com/photos/12436195/pexels-photo-12436195.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "child",
+    "translation": "dziecko 🧒",
+    "example": "Every child in the class has a notebook. 🎯",
+    "image": "https://images.pexels.com/photos/33734047/pexels-photo-33734047.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "chocolate",
+    "translation": "czekolada 🍫",
+    "example": "Would you like a piece of chocolate? 🎯",
+    "image": "https://images.pexels.com/photos/235394/pexels-photo-235394.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "church",
+    "translation": "kościół ⛪",
+    "example": "The old church is opposite the park. 🎯",
+    "image": "https://images.pexels.com/photos/33854553/pexels-photo-33854553.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "cinema",
+    "translation": "kino 🎬",
+    "example": "Let's go to the cinema this evening. 🎯",
+    "image": ""
+  },
+  {
+    "word": "coach",
+    "translation": "autokar 🚌",
+    "example": "We travelled to Paris by coach. 🎯",
+    "image": "https://images.pexels.com/photos/5785714/pexels-photo-5785714.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "coffee",
+    "translation": "kawa ☕",
+    "example": "I drink two cups of coffee every morning. 🎯",
+    "image": "https://images.pexels.com/photos/29849772/pexels-photo-29849772.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "colour",
+    "translation": "kolor 🎨",
+    "example": "What is your favourite colour? 🎯",
+    "image": "https://images.pexels.com/photos/20120124/pexels-photo-20120124.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "colourful",
+    "translation": "kolorowy 🌈",
+    "example": "The market is very colourful in summer. 🎯",
+    "image": "https://images.pexels.com/photos/908964/pexels-photo-908964.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "come",
+    "translation": "przychodzić, przyjść 🚶",
+    "example": "Can you come to my party on Saturday? 🎯",
+    "image": "https://images.pexels.com/photos/17431712/pexels-photo-17431712.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "computer",
+    "translation": "komputer 💻",
+    "example": "She works on her computer all day. 🎯",
+    "image": "https://images.pexels.com/photos/20487289/pexels-photo-20487289.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "cooker",
+    "translation": "kuchenka 🍳",
+    "example": "The cooker is between the fridge and the sink. 🎯",
+    "image": "https://images.pexels.com/photos/8567153/pexels-photo-8567153.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "countryside",
+    "translation": "wieś, krajobraz, okolica 🌿",
+    "example": "I love walking in the countryside at the weekend. 🎯",
+    "image": "https://images.pexels.com/photos/17827022/pexels-photo-17827022.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "cupboard",
+    "translation": "szafka kuchenna 🗄️",
+    "example": "The cups are in the cupboard above the sink. 🎯",
+    "image": "https://images.pexels.com/photos/5556176/pexels-photo-5556176.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "curtain",
+    "translation": "zasłona, firanka 🪟",
+    "example": "Please close the curtains — it is getting dark. 🎯",
+    "image": "https://images.pexels.com/photos/9555225/pexels-photo-9555225.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "dark",
+    "translation": "ciemny 🌑",
+    "example": "It gets dark very early in winter. 🎯",
+    "image": "https://images.pexels.com/photos/29366991/pexels-photo-29366991.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "day",
+    "translation": "dzień 📅",
+    "example": "What day is it today? 🎯",
+    "image": "https://images.pexels.com/photos/20728221/pexels-photo-20728221.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "dining room",
+    "translation": "jadalnia 🍽️",
+    "example": "We eat dinner in the dining room every evening. 🎯",
+    "image": "https://images.pexels.com/photos/32269119/pexels-photo-32269119.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "dirty",
+    "translation": "brudny 🙈",
+    "example": "Your shoes are very dirty — take them off! 🎯",
+    "image": "https://images.pexels.com/photos/31589567/pexels-photo-31589567.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "door",
+    "translation": "drzwi 🚪",
+    "example": "Please close the door when you leave. 🎯",
+    "image": "https://images.pexels.com/photos/34219154/pexels-photo-34219154.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "double",
+    "translation": "podwójny 2️⃣",
+    "example": "I would like a double room for two nights. 🎯",
+    "image": "https://images.pexels.com/photos/32177657/pexels-photo-32177657.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "drive",
+    "translation": "jechać, prowadzić samochód 🚗",
+    "example": "Can you drive me to the airport tomorrow? 🎯",
+    "image": "https://images.pexels.com/photos/31982858/pexels-photo-31982858.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "end",
+    "translation": "koniec, kończyć 🏁",
+    "example": "The film ends at ten o'clock. 🎯",
+    "image": "https://images.pexels.com/photos/12813668/pexels-photo-12813668.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "every",
+    "translation": "każdy 🔂",
+    "example": "I go for a walk every morning before breakfast. 🎯",
+    "image": "https://images.pexels.com/photos/15131401/pexels-photo-15131401.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "everywhere",
+    "translation": "wszędzie 🌍",
+    "example": "There are flowers everywhere in spring. 🎯",
+    "image": "https://images.pexels.com/photos/14905026/pexels-photo-14905026.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "excuse me",
+    "translation": "przepraszam 🙏",
+    "example": "Excuse me, where is the nearest bus stop? 🎯",
+    "image": "https://images.pexels.com/photos/3762802/pexels-photo-3762802.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "expensive",
+    "translation": "drogi, kosztowny 💸",
+    "example": "That restaurant is very expensive — let's go somewhere else. 🎯",
+    "image": "https://images.pexels.com/photos/32652453/pexels-photo-32652453.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "famous",
+    "translation": "sławny ⭐",
+    "example": "This is a very famous painting. 🎯",
+    "image": "https://images.pexels.com/photos/1678616/pexels-photo-1678616.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "far",
+    "translation": "daleko 📍",
+    "example": "Is the station far from here? 🎯",
+    "image": "https://images.pexels.com/photos/11416394/pexels-photo-11416394.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "farm",
+    "translation": "farma 🐄",
+    "example": "There are many cows on the farm. 🎯",
+    "image": "https://images.pexels.com/photos/36195962/pexels-photo-36195962.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "fireplace",
+    "translation": "kominek 🔥",
+    "example": "We sit by the fireplace on cold winter evenings. 🎯",
+    "image": "https://images.pexels.com/photos/11358162/pexels-photo-11358162.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "flat",
+    "translation": "mieszkanie 🏢",
+    "example": "They live in a small flat in the city centre. 🎯",
+    "image": "https://images.pexels.com/photos/5431364/pexels-photo-5431364.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "florist",
+    "translation": "kwiaciarnia, kwiaciarz 💐",
+    "example": "I bought roses at the florist's near the park. 🎯",
+    "image": "https://images.pexels.com/photos/17102207/pexels-photo-17102207.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "flower",
+    "translation": "kwiat 🌸",
+    "example": "She always has fresh flowers on the table. 🎯",
+    "image": "https://images.pexels.com/photos/33106607/pexels-photo-33106607.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "food",
+    "translation": "jedzenie 🍕",
+    "example": "The food in this restaurant is excellent. 🎯",
+    "image": "https://images.pexels.com/photos/19709548/pexels-photo-19709548.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "foot",
+    "translation": "stopa 🦶",
+    "example": "My foot hurts after that long walk. 🎯",
+    "image": "https://images.pexels.com/photos/8817024/pexels-photo-8817024.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "fridge",
+    "translation": "lodówka 🧊",
+    "example": "There is some milk and cheese in the fridge. 🎯",
+    "image": "https://images.pexels.com/photos/32473246/pexels-photo-32473246.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "furniture",
+    "translation": "meble 🛋️",
+    "example": "They bought new furniture for the living room. 🎯",
+    "image": "https://images.pexels.com/photos/17264274/pexels-photo-17264274.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "garage",
+    "translation": "garaż 🏠",
+    "example": "The car is in the garage. 🎯",
+    "image": ""
+  },
+  {
+    "word": "garden",
+    "translation": "ogród 🌳",
+    "example": "We have a small garden behind the house. 🎯",
+    "image": "https://images.pexels.com/photos/34889793/pexels-photo-34889793.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "get",
+    "translation": "dostać 🎁",
+    "example": "Did you get my message yesterday? 🎯",
+    "image": "https://images.pexels.com/photos/19679199/pexels-photo-19679199.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "glass",
+    "translation": "szklanka, szkło 🥛",
+    "example": "Can I have a glass of water, please? 🎯",
+    "image": "https://images.pexels.com/photos/31372773/pexels-photo-31372773.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "go",
+    "translation": "iść 🚶",
+    "example": "Let's go to the park after lunch. 🎯",
+    "image": "https://images.pexels.com/photos/28862206/pexels-photo-28862206.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "grass",
+    "translation": "trawa 🌱",
+    "example": "The grass in the garden is very green. 🎯",
+    "image": "https://images.pexels.com/photos/12079623/pexels-photo-12079623.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "green",
+    "translation": "zielony 💚",
+    "example": "The traffic light is green — we can go. 🎯",
+    "image": "https://images.pexels.com/photos/12553133/pexels-photo-12553133.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "greengrocer's",
+    "translation": "sklep warzywny 🥦",
+    "example": "I buy vegetables at the greengrocer's every Saturday. 🎯",
+    "image": "https://images.pexels.com/photos/12298301/pexels-photo-12298301.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "grey",
+    "translation": "szary 🩶",
+    "example": "The walls in the office are grey and white. 🎯",
+    "image": "https://images.pexels.com/photos/34368083/pexels-photo-34368083.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "hat",
+    "translation": "kapelusz 🎩",
+    "example": "She wears a big hat in summer. 🎯",
+    "image": "https://images.pexels.com/photos/34133838/pexels-photo-34133838.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "here",
+    "translation": "tu, tutaj 📌",
+    "example": "Come here and look at this! 🎯",
+    "image": "https://images.pexels.com/photos/33342194/pexels-photo-33342194.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "historical",
+    "translation": "historyczny 🏛️",
+    "example": "The old town is full of historical buildings. 🎯",
+    "image": "https://images.pexels.com/photos/19001367/pexels-photo-19001367.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "home",
+    "translation": "dom, miejsce zamieszkania 🏡",
+    "example": "I like to be at home in the evenings. 🎯",
+    "image": "https://images.pexels.com/photos/36410250/pexels-photo-36410250.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "hotel",
+    "translation": "hotel 🏨",
+    "example": "We stayed in a lovely hotel near the beach. 🎯",
+    "image": "https://images.pexels.com/photos/33968444/pexels-photo-33968444.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "hour",
+    "translation": "godzina ⏰",
+    "example": "The journey takes about one hour by train. 🎯",
+    "image": "https://images.pexels.com/photos/35070219/pexels-photo-35070219.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "how many",
+    "translation": "ile 🔢",
+    "example": "How many rooms are there in your flat? 🎯",
+    "image": "https://images.pexels.com/photos/16514723/pexels-photo-16514723.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "in",
+    "translation": "w 📍",
+    "example": "The keys are in my bag. 🎯",
+    "image": "https://images.pexels.com/photos/16005631/pexels-photo-16005631.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "in front of",
+    "translation": "przed 🚦",
+    "example": "There is a big tree in front of the house. 🎯",
+    "image": "https://images.pexels.com/photos/36410250/pexels-photo-36410250.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "indigo",
+    "translation": "indygo 🔵",
+    "example": "The sky turned indigo just before the storm. 🎯",
+    "image": "https://images.pexels.com/photos/20143795/pexels-photo-20143795.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "juice",
+    "translation": "sok 🍊",
+    "example": "I have a glass of orange juice every morning. 🎯",
+    "image": "https://images.pexels.com/photos/15823268/pexels-photo-15823268.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "just",
+    "translation": "właśnie, dopiero co, tylko ⏱️",
+    "example": "I have just finished my coffee. 🎯",
+    "image": "https://images.pexels.com/photos/5608510/pexels-photo-5608510.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "kitchen",
+    "translation": "kuchnia 🍳",
+    "example": "The kitchen is small but modern. 🎯",
+    "image": "https://images.pexels.com/photos/32473244/pexels-photo-32473244.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "knife",
+    "translation": "nóż 🔪",
+    "example": "Please put the knife and fork on the table. 🎯",
+    "image": "https://images.pexels.com/photos/28739127/pexels-photo-28739127.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "lamp",
+    "translation": "lampa 💡",
+    "example": "There is a lamp on the desk in the bedroom. 🎯",
+    "image": "https://images.pexels.com/photos/15432679/pexels-photo-15432679.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "late",
+    "translation": "późny, późno 🌙",
+    "example": "Sorry I am late — the bus was very slow. 🎯",
+    "image": "https://images.pexels.com/photos/18704327/pexels-photo-18704327.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "leather",
+    "translation": "skóra, skórzany 👜",
+    "example": "She carries a brown leather bag to work. 🎯",
+    "image": "https://images.pexels.com/photos/26736142/pexels-photo-26736142.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "light",
+    "translation": "światło, lekki 💡",
+    "example": "Please turn on the light — it is too dark. 🎯",
+    "image": "https://images.pexels.com/photos/9555225/pexels-photo-9555225.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "like",
+    "translation": "lubić, podobać się ❤️",
+    "example": "Do you like living in the city? 🎯",
+    "image": "https://images.pexels.com/photos/11255417/pexels-photo-11255417.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "little",
+    "translation": "mało, niewiele, trochę 🤏",
+    "example": "There is very little food in the fridge. 🎯",
+    "image": "https://images.pexels.com/photos/33985216/pexels-photo-33985216.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "living room",
+    "translation": "pokój dzienny, salon 🛋️",
+    "example": "The family watches television in the living room. 🎯",
+    "image": "https://images.pexels.com/photos/28518249/pexels-photo-28518249.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "long",
+    "translation": "długi 📏",
+    "example": "It is a long journey from here to the airport. 🎯",
+    "image": "https://images.pexels.com/photos/7538666/pexels-photo-7538666.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "lots (of)",
+    "translation": "mnóstwo 🌟",
+    "example": "There are lots of shops in the city centre. 🎯",
+    "image": ""
+  },
+  {
+    "word": "marry",
+    "translation": "pobierać się, żenić się 💍",
+    "example": "They are going to get married in June. 🎯",
+    "image": "https://images.pexels.com/photos/5729029/pexels-photo-5729029.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "means of transport",
+    "translation": "środki transportu 🚗",
+    "example": "What means of transport do you use every day? 🎯",
+    "image": "https://images.pexels.com/photos/6999616/pexels-photo-6999616.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "medicine",
+    "translation": "lekarstwo 💊",
+    "example": "Take this medicine twice a day after meals. 🎯",
+    "image": "https://images.pexels.com/photos/13779110/pexels-photo-13779110.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "middle",
+    "translation": "środek ⚖️",
+    "example": "The table is in the middle of the room. 🎯",
+    "image": "https://images.pexels.com/photos/11767210/pexels-photo-11767210.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "mile",
+    "translation": "mila 📏",
+    "example": "The hotel is about two miles from the station. 🎯",
+    "image": "https://images.pexels.com/photos/29520198/pexels-photo-29520198.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "milk",
+    "translation": "mleko 🥛",
+    "example": "Can you buy some milk on your way home? 🎯",
+    "image": "https://images.pexels.com/photos/5967316/pexels-photo-5967316.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "mirror",
+    "translation": "lustro 🪞",
+    "example": "There is a large mirror above the bathroom sink. 🎯",
+    "image": "https://images.pexels.com/photos/19438265/pexels-photo-19438265.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "modern",
+    "translation": "nowoczesny 🏙️",
+    "example": "They live in a modern flat in the city centre. 🎯",
+    "image": "https://images.pexels.com/photos/32269123/pexels-photo-32269123.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "motorbike",
+    "translation": "motorower, motor 🏍️",
+    "example": "He rides his motorbike to work every day. 🎯",
+    "image": "https://images.pexels.com/photos/8532493/pexels-photo-8532493.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "mouse",
+    "translation": "mysz 🖱️",
+    "example": "There is a mouse under the kitchen cupboard! 🎯",
+    "image": "https://images.pexels.com/photos/12877898/pexels-photo-12877898.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "museum",
+    "translation": "muzeum 🏛️",
+    "example": "The history museum is open every day except Monday. 🎯",
+    "image": "https://images.pexels.com/photos/1563259/pexels-photo-1563259.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "near",
+    "translation": "niedaleko 📍",
+    "example": "Is there a chemist's near here? 🎯",
+    "image": "https://images.pexels.com/photos/9540188/pexels-photo-9540188.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "new",
+    "translation": "nowy ✨",
+    "example": "They moved into their new flat last month. 🎯",
+    "image": "https://images.pexels.com/photos/15276670/pexels-photo-15276670.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "newsagent's",
+    "translation": "sklep z gazetami 📰",
+    "example": "I buy my newspaper at the newsagent's every morning. 🎯",
+    "image": "https://images.pexels.com/photos/19299961/pexels-photo-19299961.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "newspaper",
+    "translation": "gazeta 📰",
+    "example": "He reads a newspaper on the train every morning. 🎯",
+    "image": "https://images.pexels.com/photos/28219397/pexels-photo-28219397.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "next to",
+    "translation": "obok ↔️",
+    "example": "The bank is next to the post office. 🎯",
+    "image": "https://images.pexels.com/photos/35404600/pexels-photo-35404600.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "night",
+    "translation": "noc 🌙",
+    "example": "I sleep about eight hours every night. 🎯",
+    "image": "https://images.pexels.com/photos/26698229/pexels-photo-26698229.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "notebook",
+    "translation": "notatnik, komputer przenośny 📓",
+    "example": "She writes all her ideas in a notebook. 🎯",
+    "image": ""
+  },
+  {
+    "word": "of course",
+    "translation": "oczywiście ✅",
+    "example": "Of course I can help you with that! 🎯",
+    "image": "https://images.pexels.com/photos/8834489/pexels-photo-8834489.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "on",
+    "translation": "na 📌",
+    "example": "The book is on the table next to the lamp. 🎯",
+    "image": "https://images.pexels.com/photos/30214415/pexels-photo-30214415.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "only",
+    "translation": "tylko 1️⃣",
+    "example": "There is only one bedroom in this flat. 🎯",
+    "image": ""
+  },
+  {
+    "word": "opposite",
+    "translation": "naprzeciwko 🏠",
+    "example": "The school is opposite the park. 🎯",
+    "image": "https://images.pexels.com/photos/8831810/pexels-photo-8831810.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "orange",
+    "translation": "pomarańczowy 🟠",
+    "example": "She painted the kitchen walls orange. 🎯",
+    "image": "https://images.pexels.com/photos/5945608/pexels-photo-5945608.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "other",
+    "translation": "inny, pozostały 🔀",
+    "example": "Are there any other rooms to see? 🎯",
+    "image": "https://images.pexels.com/photos/21856002/pexels-photo-21856002.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "oval",
+    "translation": "owalny 🥚",
+    "example": "The dining table is oval and very elegant. 🎯",
+    "image": "https://images.pexels.com/photos/14466168/pexels-photo-14466168.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "over there",
+    "translation": "tam 👉",
+    "example": "The bathroom is over there on the left. 🎯",
+    "image": ""
+  },
+  {
+    "word": "own",
+    "translation": "posiadać, własny 🏠",
+    "example": "Do you own your flat or do you rent it? 🎯",
+    "image": "https://images.pexels.com/photos/5234180/pexels-photo-5234180.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "paint",
+    "translation": "malować 🎨",
+    "example": "They are going to paint the living room white. 🎯",
+    "image": "https://images.pexels.com/photos/13013228/pexels-photo-13013228.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "painted",
+    "translation": "pomalowany 🖌️",
+    "example": "The walls are painted a lovely shade of blue. 🎯",
+    "image": "https://images.pexels.com/photos/8603638/pexels-photo-8603638.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "park",
+    "translation": "park 🌳",
+    "example": "Let's have lunch in the park today. 🎯",
+    "image": "https://images.pexels.com/photos/908986/pexels-photo-908986.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "party",
+    "translation": "przyjęcie, prywatka 🎉",
+    "example": "We are having a party on Saturday evening. 🎯",
+    "image": "https://images.pexels.com/photos/32191351/pexels-photo-32191351.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "pen",
+    "translation": "długopis 🖊️",
+    "example": "Can I borrow your pen for a moment? 🎯",
+    "image": "https://images.pexels.com/photos/16282318/pexels-photo-16282318.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "person",
+    "translation": "osoba 👤",
+    "example": "She is a very kind and friendly person. 🎯",
+    "image": "https://images.pexels.com/photos/37273006/pexels-photo-37273006.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "pharmacy",
+    "translation": "apteka 💊",
+    "example": "The pharmacy is open until eight in the evening. 🎯",
+    "image": "https://images.pexels.com/photos/32116001/pexels-photo-32116001.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "photograph",
+    "translation": "zdjęcie, fotografia 📷",
+    "example": "I took a beautiful photograph of the castle. 🎯",
+    "image": "https://images.pexels.com/photos/37273005/pexels-photo-37273005.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "picture",
+    "translation": "obraz, rysunek, zdjęcie 🖼️",
+    "example": "There is a picture of the family on the wall. 🎯",
+    "image": "https://images.pexels.com/photos/7483187/pexels-photo-7483187.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "pig",
+    "translation": "świnia 🐷",
+    "example": "There are three pigs on the farm. 🎯",
+    "image": "https://images.pexels.com/photos/4751420/pexels-photo-4751420.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "pink",
+    "translation": "różowy 🩷",
+    "example": "She has a pink umbrella and a pink hat. 🎯",
+    "image": "https://images.pexels.com/photos/31449823/pexels-photo-31449823.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "plane",
+    "translation": "samolot ✈️",
+    "example": "The plane to London leaves at seven in the morning. 🎯",
+    "image": "https://images.pexels.com/photos/16757167/pexels-photo-16757167.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "plastic",
+    "translation": "plastik, plastikowy ♻️",
+    "example": "The chair is made of plastic and metal. 🎯",
+    "image": "https://images.pexels.com/photos/13968355/pexels-photo-13968355.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "police station",
+    "translation": "posterunek policji 🚓",
+    "example": "The police station is opposite the town hall. 🎯",
+    "image": "https://images.pexels.com/photos/32116004/pexels-photo-32116004.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "popular",
+    "translation": "popularny 🌟",
+    "example": "This is a very popular café with students. 🎯",
+    "image": "https://images.pexels.com/photos/30073851/pexels-photo-30073851.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "post office",
+    "translation": "poczta 📮",
+    "example": "I need to go to the post office to send a parcel. 🎯",
+    "image": "https://images.pexels.com/photos/37153176/pexels-photo-37153176.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "potato",
+    "translation": "ziemniak 🥔",
+    "example": "We have roast potatoes with dinner every Sunday. 🎯",
+    "image": "https://images.pexels.com/photos/5249331/pexels-photo-5249331.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "princess",
+    "translation": "księżniczka 👸",
+    "example": "The little girl wants to be a princess. 🎯",
+    "image": "https://images.pexels.com/photos/1486816/pexels-photo-1486816.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "quite",
+    "translation": "całkiem 👍",
+    "example": "The flat is quite small but very comfortable. 🎯",
+    "image": "https://images.pexels.com/photos/35774688/pexels-photo-35774688.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "railway station",
+    "translation": "stacja kolejowa 🚆",
+    "example": "The railway station is in the centre of the city. 🎯",
+    "image": "https://images.pexels.com/photos/234453/pexels-photo-234453.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "rainbow",
+    "translation": "tęcza 🌈",
+    "example": "Look — there is a beautiful rainbow over the hills! 🎯",
+    "image": "https://images.pexels.com/photos/12434421/pexels-photo-12434421.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "real",
+    "translation": "prawdziwy ✔️",
+    "example": "Is that a real leather bag or plastic? 🎯",
+    "image": "https://images.pexels.com/photos/29334668/pexels-photo-29334668.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "red",
+    "translation": "czerwony ❤️",
+    "example": "She always wears a red coat in winter. 🎯",
+    "image": "https://images.pexels.com/photos/11255287/pexels-photo-11255287.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "restaurant",
+    "translation": "restauracja 🍽️",
+    "example": "There is a lovely Italian restaurant near the theatre. 🎯",
+    "image": "https://images.pexels.com/photos/10132214/pexels-photo-10132214.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "ride",
+    "translation": "jechać, jazda 🚲",
+    "example": "I love to ride my bike in the countryside. 🎯",
+    "image": "https://images.pexels.com/photos/30831964/pexels-photo-30831964.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "roof",
+    "translation": "dach 🏠",
+    "example": "There is a cat sitting on the roof! 🎯",
+    "image": "https://images.pexels.com/photos/14700153/pexels-photo-14700153.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "room",
+    "translation": "pokój 🚪",
+    "example": "How many rooms are there in your house? 🎯",
+    "image": "https://images.pexels.com/photos/12506515/pexels-photo-12506515.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "rose",
+    "translation": "róża 🌹",
+    "example": "He gave her a bunch of red roses. 🎯",
+    "image": "https://images.pexels.com/photos/7247318/pexels-photo-7247318.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "school",
+    "translation": "szkoła 🏫",
+    "example": "The school is opposite the park and the church. 🎯",
+    "image": "https://images.pexels.com/photos/8618062/pexels-photo-8618062.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "see",
+    "translation": "widzieć 👀",
+    "example": "Can you see the castle from here? 🎯",
+    "image": "https://images.pexels.com/photos/13987129/pexels-photo-13987129.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "shiny",
+    "translation": "świecący, błyszczący ✨",
+    "example": "She has shiny black shoes and a smart jacket. 🎯",
+    "image": "https://images.pexels.com/photos/29283906/pexels-photo-29283906.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "shop",
+    "translation": "sklep 🏪",
+    "example": "There is a great little shop near our flat. 🎯",
+    "image": "https://images.pexels.com/photos/12945624/pexels-photo-12945624.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "shower",
+    "translation": "prysznic 🚿",
+    "example": "I have a shower every morning before breakfast. 🎯",
+    "image": "https://images.pexels.com/photos/12742814/pexels-photo-12742814.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "side",
+    "translation": "strona ↔️",
+    "example": "The garden is on the left side of the house. 🎯",
+    "image": "https://images.pexels.com/photos/33898874/pexels-photo-33898874.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "sink",
+    "translation": "zlew 🚰",
+    "example": "The dirty dishes are in the sink. 🎯",
+    "image": "https://images.pexels.com/photos/29399425/pexels-photo-29399425.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "sky",
+    "translation": "niebo ☁️",
+    "example": "The sky is clear and blue today. 🎯",
+    "image": "https://images.pexels.com/photos/776962/pexels-photo-776962.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "sleep",
+    "translation": "spać 😴",
+    "example": "I usually sleep for eight hours a night. 🎯",
+    "image": "https://images.pexels.com/photos/18864132/pexels-photo-18864132.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "small",
+    "translation": "mały 🐭",
+    "example": "They live in a small but cosy flat. 🎯",
+    "image": "https://images.pexels.com/photos/12569713/pexels-photo-12569713.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "snow",
+    "translation": "śnieg ❄️",
+    "example": "There is snow on the roof this morning. 🎯",
+    "image": "https://images.pexels.com/photos/10763375/pexels-photo-10763375.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "so",
+    "translation": "więc 👉",
+    "example": "It was raining, so we stayed at home. 🎯",
+    "image": "https://images.pexels.com/photos/29113533/pexels-photo-29113533.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "sofa",
+    "translation": "sofa 🛋️",
+    "example": "The cat is sleeping on the sofa again. 🎯",
+    "image": "https://images.pexels.com/photos/4075680/pexels-photo-4075680.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "somewhere",
+    "translation": "gdzieś, gdziekolwiek 🗺️",
+    "example": "Let's go somewhere nice for dinner tonight. 🎯",
+    "image": ""
+  },
+  {
+    "word": "stamp",
+    "translation": "znaczek 📮",
+    "example": "I need to buy some stamps at the post office. 🎯",
+    "image": "https://images.pexels.com/photos/34144383/pexels-photo-34144383.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "station",
+    "translation": "stacja 🚉",
+    "example": "The bus station is near the train station. 🎯",
+    "image": "https://images.pexels.com/photos/20885135/pexels-photo-20885135.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "sun",
+    "translation": "słońce ☀️",
+    "example": "The sun is shining and it is very warm today. 🎯",
+    "image": "https://images.pexels.com/photos/15644350/pexels-photo-15644350.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "supermarket",
+    "translation": "supermarket 🛒",
+    "example": "I do my shopping at the supermarket on Fridays. 🎯",
+    "image": "https://images.pexels.com/photos/9070120/pexels-photo-9070120.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "sweet",
+    "translation": "słodki 🍬",
+    "example": "This cake is very sweet — perfect with coffee. 🎯",
+    "image": "https://images.pexels.com/photos/32081993/pexels-photo-32081993.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "table",
+    "translation": "stół 🪑",
+    "example": "Please set the table for dinner. 🎯",
+    "image": "https://images.pexels.com/photos/10132214/pexels-photo-10132214.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "take",
+    "translation": "brać 🤲",
+    "example": "Take an umbrella — it looks like rain. 🎯",
+    "image": "https://images.pexels.com/photos/8833492/pexels-photo-8833492.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "taxi",
+    "translation": "taksówka 🚕",
+    "example": "Let's take a taxi to the airport. 🎯",
+    "image": "https://images.pexels.com/photos/2389476/pexels-photo-2389476.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "television",
+    "translation": "telewizja 📺",
+    "example": "We watch television after dinner every evening. 🎯",
+    "image": "https://images.pexels.com/photos/28104067/pexels-photo-28104067.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "tell",
+    "translation": "powiedzieć, opowiadać 🗣️",
+    "example": "Can you tell me the way to the station? 🎯",
+    "image": "https://images.pexels.com/photos/11861959/pexels-photo-11861959.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "the City",
+    "translation": "centrum finansowe Londynu 🏙️",
+    "example": "He works in the City and commutes every day. 🎯",
+    "image": "https://images.pexels.com/photos/33112743/pexels-photo-33112743.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "theatre",
+    "translation": "teatr 🎭",
+    "example": "The theatre is near the museum in the city centre. 🎯",
+    "image": "https://images.pexels.com/photos/34884256/pexels-photo-34884256.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "then",
+    "translation": "wtedy, wówczas ⏩",
+    "example": "We had dinner and then went for a walk. 🎯",
+    "image": "https://images.pexels.com/photos/11517555/pexels-photo-11517555.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "there",
+    "translation": "tam 👉",
+    "example": "The keys are over there on the table. 🎯",
+    "image": "https://images.pexels.com/photos/11584992/pexels-photo-11584992.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "thing",
+    "translation": "rzecz, sprawa 💡",
+    "example": "What is that thing on the kitchen table? 🎯",
+    "image": "https://images.pexels.com/photos/9789217/pexels-photo-9789217.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "think",
+    "translation": "sądzić, myśleć 🤔",
+    "example": "I think the museum is near the castle. 🎯",
+    "image": "https://images.pexels.com/photos/35923029/pexels-photo-35923029.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "tired",
+    "translation": "zmęczony 😴",
+    "example": "I am very tired after that long journey. 🎯",
+    "image": "https://images.pexels.com/photos/30389394/pexels-photo-30389394.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "tomato",
+    "translation": "pomidor 🍅",
+    "example": "I like tomato soup with bread for lunch. 🎯",
+    "image": "https://images.pexels.com/photos/14920999/pexels-photo-14920999.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "town",
+    "translation": "miasto 🏘️",
+    "example": "This is a small but very beautiful town. 🎯",
+    "image": "https://images.pexels.com/photos/15122187/pexels-photo-15122187.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "train",
+    "translation": "pociąg 🚆",
+    "example": "The train to London leaves in ten minutes. 🎯",
+    "image": "https://images.pexels.com/photos/2976684/pexels-photo-2976684.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "train station",
+    "translation": "dworzec kolejowy 🚆",
+    "example": "The train station is in the centre of town. 🎯",
+    "image": "https://images.pexels.com/photos/34472136/pexels-photo-34472136.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "tube",
+    "translation": "metro w Londynie 🚇",
+    "example": "We took the tube from the airport to the hotel. 🎯",
+    "image": "https://images.pexels.com/photos/36550958/pexels-photo-36550958.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "under",
+    "translation": "pod ⬇️",
+    "example": "The cat is under the table as usual. 🎯",
+    "image": "https://images.pexels.com/photos/4729725/pexels-photo-4729725.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "underground",
+    "translation": "metro w Londynie 🚇",
+    "example": "The underground is the fastest way to travel in London. 🎯",
+    "image": "https://images.pexels.com/photos/37255335/pexels-photo-37255335.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "upstairs",
+    "translation": "na górze, na piętrze ⬆️",
+    "example": "The bedrooms are upstairs and the kitchen is downstairs. 🎯",
+    "image": "https://images.pexels.com/photos/30736794/pexels-photo-30736794.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "vegetables",
+    "translation": "warzywa 🥦",
+    "example": "I buy fresh vegetables at the greengrocer's every week. 🎯",
+    "image": "https://images.pexels.com/photos/33300344/pexels-photo-33300344.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "violet",
+    "translation": "fioletowy 💜",
+    "example": "She painted her bedroom violet and white. 🎯",
+    "image": "https://images.pexels.com/photos/11777119/pexels-photo-11777119.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "visit",
+    "translation": "odwiedzać, wizyta 🏡",
+    "example": "We are going to visit my grandparents this weekend. 🎯",
+    "image": "https://images.pexels.com/photos/33898874/pexels-photo-33898874.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "walk",
+    "translation": "spacerować, iść 🚶",
+    "example": "Let's go for a walk in the park after lunch. 🎯",
+    "image": "https://images.pexels.com/photos/9322158/pexels-photo-9322158.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "wall",
+    "translation": "ściana 🧱",
+    "example": "The walls in the living room are painted white. 🎯",
+    "image": "https://images.pexels.com/photos/17062475/pexels-photo-17062475.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "wardrobe",
+    "translation": "szafa 👗",
+    "example": "Her wardrobe is full of colourful clothes. 🎯",
+    "image": "https://images.pexels.com/photos/32331030/pexels-photo-32331030.png?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "washbasin",
+    "translation": "umywalka 🚰",
+    "example": "There is a mirror above the washbasin in the bathroom. 🎯",
+    "image": "https://images.pexels.com/photos/8634462/pexels-photo-8634462.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "watch",
+    "translation": "zegarek ⌚",
+    "example": "He always wears his grandfather's old watch. 🎯",
+    "image": "https://images.pexels.com/photos/14312717/pexels-photo-14312717.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "white",
+    "translation": "biały 🤍",
+    "example": "The walls in the kitchen are white and clean. 🎯",
+    "image": "https://images.pexels.com/photos/9524074/pexels-photo-9524074.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "window",
+    "translation": "okno 🪟",
+    "example": "Please open the window — it is very hot in here. 🎯",
+    "image": "https://images.pexels.com/photos/11784605/pexels-photo-11784605.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "with",
+    "translation": "z 🤝",
+    "example": "She always drinks coffee with milk and sugar. 🎯",
+    "image": "https://images.pexels.com/photos/36534562/pexels-photo-36534562.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "yellow",
+    "translation": "żółty 💛",
+    "example": "The sunflowers in the garden are bright yellow. 🎯",
+    "image": "https://images.pexels.com/photos/35695742/pexels-photo-35695742.jpeg?auto=compress&cs=tinysrgb&h=130"
+  },
+  {
+    "word": "you are welcome",
+    "translation": "nie ma za co, bardzo proszę 😊",
+    "example": "Thank you! — You are welcome, any time! 🎯",
+    "image": "https://images.pexels.com/photos/6287933/pexels-photo-6287933.jpeg?auto=compress&cs=tinysrgb&h=130"
+  }
+]
